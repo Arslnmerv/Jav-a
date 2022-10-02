@@ -49,11 +49,11 @@ public class StringManipulations01 {
         System.out.println("Ilk ve soy isminizi giriniz");
         String tamIsim = input.nextLine();
 
-        String ilkharf1 = tamIsim.substring(0,1);
+        String ilkharf1 = tamIsim.substring(0, 1);
 //        String sonHarf1 = tamIsim.substring(tamIsim.length()-tamIsim.length()-1);
 //        System.out.println(ilkharf1 + sonHarf1);
 
-        String sonHarf1 = tamIsim.split(" ")[1].substring(0,1);
+        String sonHarf1 = tamIsim.split(" ")[1].substring(0, 1);
         System.out.println(ilkharf1 + sonHarf1);
     }
 }

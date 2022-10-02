@@ -7,7 +7,7 @@ public class StringManipulations02 {
         //              "Ali okula gitti." --> 14
 
         String str = "Ali okula gitti.";
-        str.replace(" " , "");
-        System.out.println(str.replace(" " , "").length());
+        str.replace(" ", "");
+        System.out.println(str.replace(" ", "").length());
     }
 }
