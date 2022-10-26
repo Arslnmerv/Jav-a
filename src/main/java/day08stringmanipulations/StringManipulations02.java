@@ -1,4 +1,4 @@
-package day08stringmanipulation;
+package day08stringmanipulations;
 
 public class StringManipulations02 {
     public static void main(String[] args) {
