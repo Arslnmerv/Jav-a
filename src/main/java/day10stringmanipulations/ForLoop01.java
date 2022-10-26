@@ -1,4 +1,4 @@
-package day10StringManipulations;
+package day10stringmanipulations;
 
 public class ForLoop01 {
 
